@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Noto Sans Thai ExtraCondensed';
+    src: url('NotoSansThaiExtraCondensed-Bold.woff2') format('woff2'),
+        url('NotoSansThaiExtraCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Thai Condensed';
+    src: url('NotoSansThaiCondensed-Regular.woff2') format('woff2'),
+        url('NotoSansThaiCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
